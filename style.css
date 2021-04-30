@@ -8,6 +8,8 @@ body {
         background:url("https://www.fonewalls.com/wp-content/uploads/2019/10/Gradient-Background-Wallpaper-003.jpg");
         background-repeat: no-repeat;
         color: aliceblue;
+        border-radius: 4px;
+        box-shadow: black;
   
 }
 .control-label{
